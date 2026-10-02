@@ -1,0 +1,47 @@
+[
+  {
+    "item": [
+      {
+        "harga": 150,
+        "nama": "Buku",
+        "qty": 2
+      },
+      {
+        "harga": 300,
+        "nama": "Pulpen",
+        "qty": 1
+      }
+    ],
+    "merchant": "Aplikasi Belanja Online",
+    "pajak": 0,
+    "subtotal": 500,
+    "tanggal": "2023-04-18",
+    "total": 500,
+    "file": "nota-sample-2.png"
+  },
+  {
+    "item": [
+      {
+        "harga": 20000,
+        "nama": "Sate daging sapi",
+        "qty": 40
+      },
+      {
+        "harga": 15000,
+        "nama": "Sate ayam",
+        "qty": 25
+      },
+      {
+        "harga": 20000,
+        "nama": "Sate ati ampela",
+        "qty": 1
+      }
+    ],
+    "merchant": "SATE REMBIGE KHAS LOMBOK",
+    "pajak": 106818,
+    "subtotal": 1200000,
+    "tanggal": "05 Desember 2015",
+    "total": 1175000,
+    "file": "nota-sample.png"
+  }
+]

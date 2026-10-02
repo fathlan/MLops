@@ -1,0 +1,24 @@
+{
+  "item": [
+    {
+      "harga": 20000,
+      "nama": "Sate daging sapi",
+      "qty": 40
+    },
+    {
+      "harga": 15000,
+      "nama": "Sate ayam",
+      "qty": 25
+    },
+    {
+      "harga": 20000,
+      "nama": "Sate ati ampela",
+      "qty": 1
+    }
+  ],
+  "merchant": "SATE REMBIGE KHAS LOMBOK",
+  "pajak": 106818,
+  "subtotal": 1200000,
+  "tanggal": "05 Desember 2015",
+  "total": 1068000
+}
